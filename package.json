@@ -1,0 +1,18 @@
+{
+  "name": "nexthium",
+  "version": "1.0.0",
+  "description": "Nexthium ($NEXTHIUM) — Onchain MCP endpoint. Put the chain inside your assistant.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "mcp",
+    "ai-agent",
+    "onchain",
+    "robinhood-chain",
+    "nexthium"
+  ],
+  "author": "WerelayAgent",
+  "license": "MIT"
+}
