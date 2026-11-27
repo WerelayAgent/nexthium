@@ -1,9 +1,9 @@
 
 (() => {
-  const MCP_URL = 'https://nexthium.tech/api/mcp';
+  const MCP_URL = 'https://nexthium.space/api/mcp';
 
   const CLIENT_SNIPPETS = {
-    'Claude Code': 'claude mcp add --transport http nexthium https://nexthium.tech/api/mcp',
+    'Claude Code': 'claude mcp add --transport http nexthium https://nexthium.space/api/mcp',
     'Cursor': JSON.stringify({
       mcpServers: {
         nexthium: {
